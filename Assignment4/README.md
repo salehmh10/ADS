@@ -17,27 +17,7 @@ Main topics:
 * Explainable AI
 * End-to-End Workflow
 
----
 
-## Repository Structure
-
-```text id="2deopp"
-Assignment4/
-│
-├── Assignment4_Part1_ML_Pipelines.ipynb
-├── Assignment4_Part2_Imbalanced_Data.ipynb
-├── Assignment4_Part3_VAE_FashionMNIST.ipynb
-├── Assignment4_Part4_GAN_MNIST.ipynb
-├── Assignment4_Part5_DDPM_MNIST.ipynb
-├── Assignment4_Part6_XAI_CNN.ipynb
-├── Assignment4_Optional_Bonus_End_to_End_Workflow.ipynb
-│
-├── data/
-│   ├── classification_DATA.csv
-│   └── Data.csv
-│
-└── README.md
-```
 
 ---
 
